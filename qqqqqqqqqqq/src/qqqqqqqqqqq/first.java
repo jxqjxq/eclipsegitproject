@@ -5,7 +5,8 @@ public class first {
 
 	public static void main(String[] args) {
 		/*	System.out.println("666777777666");
-			System.out.println("tell me why");
+			System.out.println("tell me why???");
+			你是谁？？
 			System.out.println("666666");
 			System.out.println("666666");*/
 			
