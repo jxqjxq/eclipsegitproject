@@ -4,7 +4,7 @@ import redis.clients.jedis.Jedis;
 public class first {
 
 	public static void main(String[] args) {
-		/*	System.out.println("不一样啊，倒是报冲突啊");
+		/*	System.out.println("怎么了？？不一样啊，倒是报冲突啊");
 			System.out.println("tell me why???");
 			你是谁？？
 			System.out.println("666666");
